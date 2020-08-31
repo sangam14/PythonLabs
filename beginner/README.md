@@ -2,3 +2,4 @@
 - [String Methods](./String-Methods.md)
 - [String Slicing](./String-Slicing.md)
 - [String Formatting](./String-Formatting.md)
+- [Lists](./Lists.md)
