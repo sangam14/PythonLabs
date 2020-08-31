@@ -4,4 +4,4 @@
 - [String Formatting](./String-Formatting.md)
 - [Lists](./Lists.md)
 - [Tuples](./Tuples.md)
-
+- [Dictionaries](./Dictionaries.md)
