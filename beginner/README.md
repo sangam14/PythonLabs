@@ -7,4 +7,5 @@
 - [Dictionaries](./Dictionaries.md)
 - [conditional statements](./conditional-statements.md)
 - [The if statement](./conditional-statements.md#the-if-statement)
-- []
+- [Boolean Operations](./Boolean-Operations.md)
+- [Checking for Nothing]
