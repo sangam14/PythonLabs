@@ -5,3 +5,6 @@
 - [Lists](./Lists.md)
 - [Tuples](./Tuples.md)
 - [Dictionaries](./Dictionaries.md)
+- [conditional statements](./conditional-statements.md)
+- [The if statement](./conditional-statements.md#the-if-statement)
+- []
