@@ -17,3 +17,4 @@
 - [List comprehensions](./List-Comprehensions.md)
 - [Dictionary comprehensions](./Dictionary-comprehensions.md)
 - [Set Comprehensions](./Set-Comprehensions.md)
+- [Introduction to Exception Handling](./intro-exception-handling.md)
