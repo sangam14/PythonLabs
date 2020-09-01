@@ -19,4 +19,4 @@
 - [Set Comprehensions](./Set-Comprehensions.md)
 - [Introduction to Exception Handling](./intro-exception-handling.md)
 - [Common Exceptions](./Common-Exceptions.md)
-- [How to Handle Exceptions]
+- [How to Handle Exceptions](./Handle-Exceptions.md)
