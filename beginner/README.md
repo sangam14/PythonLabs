@@ -14,4 +14,5 @@
 - [The for Loop](./The-for-Loop.md)
 - [The while Loop](./The-while-Loop.md)
 - [What else is for in loops](./else-in-loops.md)
-
+- [List comprehensions](./List-Comprehensions.md)
+- [Dictionary comprehensions]
