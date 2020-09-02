@@ -20,3 +20,12 @@
 - [Introduction to Exception Handling](./intro-exception-handling.md)
 - [Common Exceptions](./Common-Exceptions.md)
 - [How to Handle Exceptions](./Handle-Exceptions.md)
+- [The finally Statement](./finally-Statement.md)
+- [try, except, or else!](./try-except-else.md)
+- [How to Read a File](./Read-File.md)
+- [How To Read Files Piece by Piece](./ReadBinaryfile.md)
+- [Writing Files in Python](./write-file.md)
+- [Using the with Operator](./Using-the-with-Operator.md)
+- [Catching Errors in file handling](./catching-errors-in-file-handle.md)
+- [import this](./import-this-module.md)
+- [Using from to import]
