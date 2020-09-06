@@ -31,4 +31,4 @@
 - [Using from to import](./use-of-import.md)
 - [Importing Everything!](./import-everything.md)
 - [functions](./function.md)
-- [Passing Arguments to a Function]
+- [Passing Arguments to a Function](./pass-arg-function.md)
